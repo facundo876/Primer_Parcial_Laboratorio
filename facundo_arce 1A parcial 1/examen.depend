@@ -1,0 +1,315 @@
+# depslib dependency file v1.0
+1557102952 source:d:\examen\empleados.c
+	"empleados.h"
+
+1557146373 d:\examen\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557152941 source:d:\examen\autores.c
+	"autores.h"
+
+1557152125 source:d:\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"autores.h"
+
+1557150840 d:\examen\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1555285404 source:d:\examen\funcionesutn.c
+	<stdio.h>
+	<string.h>
+
+1557277825 source:c:\users\delta\desktop\examen\autores.c
+	"autores.h"
+
+1557277283 c:\users\delta\desktop\examen\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557199182 source:c:\users\delta\desktop\examen\funcionesutn.c
+	<stdio.h>
+	<string.h>
+
+1557276180 source:c:\users\delta\desktop\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+
+1557197723 c:\users\delta\desktop\examen\funcionesutn.h
+
+1557273685 c:\users\delta\desktop\examen\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557277510 source:c:\users\delta\desktop\examen\socios.c
+	"socios.h"
+	"funcionesUTN.h"
+	"prestamos.h"
+
+1557278011 source:c:\users\delta\desktop\examen\libros.c
+	"libros.h"
+
+1557277284 c:\users\delta\desktop\examen\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557278141 source:c:\users\delta\desktop\examen\prestamos.c
+	"prestamos.h"
+	"funcionesUTN.h"
+	"libros.h"
+	"socios.h"
+
+1557277396 c:\users\delta\desktop\examen\prestamos.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"socios.h"
+
+1557277826 source:d:\facundoarce\parcial 1 laboratotio\autores.c
+	"autores.h"
+
+1557277284 d:\facundoarce\parcial 1 laboratotio\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557199184 source:d:\facundoarce\parcial 1 laboratotio\funcionesutn.c
+	<stdio.h>
+	<string.h>
+
+1557318822 source:d:\facundoarce\parcial 1 laboratotio\libros.c
+	"libros.h"
+
+1557325033 d:\facundoarce\parcial 1 laboratotio\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557323700 source:d:\facundoarce\parcial 1 laboratotio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"listar.h"
+
+1557273686 d:\facundoarce\parcial 1 laboratotio\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557325031 d:\facundoarce\parcial 1 laboratotio\prestamos.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"socios.h"
+
+1557326347 source:d:\facundoarce\parcial 1 laboratotio\prestamos.c
+	"prestamos.h"
+	"funcionesUTN.h"
+	"libros.h"
+	"socios.h"
+
+1557197724 d:\facundoarce\parcial 1 laboratotio\funcionesutn.h
+
+1557317469 source:d:\facundoarce\parcial 1 laboratotio\socios.c
+	"socios.h"
+	"funcionesUTN.h"
+	"prestamos.h"
+
+1557317213 source:d:\facundoarce\parcial 1 laboratotio\listar.c
+	"listar.h"
+
+1557316779 d:\facundoarce\parcial 1 laboratotio\listar.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557277826 source:c:\users\delta\desktop\facundo_arce 1a parcial 1\autores.c
+	"autores.h"
+
+1557277284 c:\users\delta\desktop\facundo_arce 1a parcial 1\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557199184 source:c:\users\delta\desktop\facundo_arce 1a parcial 1\funcionesutn.c
+	<stdio.h>
+	<string.h>
+
+1557318824 source:c:\users\delta\desktop\facundo_arce 1a parcial 1\libros.c
+	"libros.h"
+
+1559266243 c:\users\delta\desktop\facundo_arce 1a parcial 1\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1558666740 source:c:\users\delta\desktop\facundo_arce 1a parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"listar.h"
+
+1559267297 c:\users\delta\desktop\facundo_arce 1a parcial 1\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1559416571 c:\users\delta\desktop\facundo_arce 1a parcial 1\prestamos.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"socios.h"
+
+1557316780 c:\users\delta\desktop\facundo_arce 1a parcial 1\listar.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1559419743 source:c:\users\delta\desktop\facundo_arce 1a parcial 1\prestamos.c
+	"prestamos.h"
+	"funcionesUTN.h"
+	"libros.h"
+	"socios.h"
+
+1557197724 c:\users\delta\desktop\facundo_arce 1a parcial 1\funcionesutn.h
+
+1558666769 source:c:\users\delta\desktop\facundo_arce 1a parcial 1\socios.c
+	"socios.h"
+	"funcionesUTN.h"
+	"prestamos.h"
+
+1557277826 source:c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\autores.c
+	"autores.h"
+
+1557277284 c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1557199184 source:c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\funcionesutn.c
+	<stdio.h>
+	<string.h>
+
+1557318824 source:c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\libros.c
+	"libros.h"
+
+1559266243 c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1562173826 source:c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"socios.h"
+	"autores.h"
+	"libros.h"
+	"prestamos.h"
+	"listar.h"
+
+1559267297 c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\socios.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1562170642 c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\prestamos.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"socios.h"
+	"libros.h"
+	"socios.h"
+
+1557316780 c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\listar.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+
+1562195268 source:c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\prestamos.c
+	"prestamos.h"
+	"funcionesUTN.h"
+	"libros.h"
+	"socios.h"
+
+1557197724 c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\funcionesutn.h
+
+1562194007 source:c:\users\delta\desktop\programming\facundo_arce 1a parcial 1\socios.c
+	"socios.h"
+	"funcionesUTN.h"
+	"prestamos.h"
+
