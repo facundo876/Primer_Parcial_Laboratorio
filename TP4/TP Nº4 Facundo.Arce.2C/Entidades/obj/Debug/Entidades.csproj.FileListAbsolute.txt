@@ -1,0 +1,6 @@
+C:\Users\Delta\Desktop\TP Nº4 Facundo.Arce.2C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Delta\Desktop\TP Nº4 Facundo.Arce.2C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Delta\Desktop\TP Nº4 Facundo.Arce.2C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Delta\Desktop\TP Nº4 Facundo.Arce.2C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Delta\Desktop\TP Nº4 Facundo.Arce.2C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Delta\Desktop\TP Nº4 Facundo.Arce.2C\Entidades\obj\Debug\Entidades.pdb
